@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Why Hello There\n"
+"POT-Creation-Date: 2017-05-30 20:13-0300\n"
+"PO-Revision-Date: 2017-05-30 20:13-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid "Whoops.  Looks like there's nothing here!"
+msgstr ""
+
+#: 404.php:8
+msgid ""
+"Sorry, nothing was found at this location. I wonder what happened? Anyway, "
+"how about a search?"
+msgstr ""
+
+#: archive.php:11
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:14
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:14
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:17
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:20
+msgid "Archives"
+msgstr ""
+
+#: archive.php:33 author.php:22 category.php:27 index.php:21
+#: page-templates/full-width.php:30 page.php:24 single.php:17 tag.php:27
+msgid "No posts were found. Sorry!"
+msgstr ""
+
+#: author.php:9
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: category.php:9
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: content-page.php:18 content.php:35
+msgid "Continue reading..."
+msgstr ""
+
+#: content-page.php:20 content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:29 content.php:48
+msgid "Edit"
+msgstr ""
+
+#: functions.php:52
+msgid "Primary"
+msgstr ""
+
+#: functions.php:150
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:150
+msgid "[Edit]"
+msgstr ""
+
+#: functions.php:159
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Primary/Link Color"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "The primary link/button color for the content area."
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid ""
+"A highlight color for odds/ends: category links, header navigation "
+"rollovers, and a couple other things."
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "The background color of the header."
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "The color of the header text (logo, description, icons)."
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Social Urls"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "LinkedIn Url"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Check to enable/disable slider"
+msgstr ""
+
+#: inc/customizer.php:147 inc/customizer.php:157
+msgid "Footer Message"
+msgstr ""
+
+#: inc/template-tags.php:32
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:35
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:129
+msgid "Read More..."
+msgstr ""
+
+#: tag.php:9
+#, php-format
+msgid "Tagged in: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Why Hello There"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://siteturner.com/themes/whyhellothere/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A contemporary, flat responsive theme.  Assembled using Sass, Compass and "
+"Susy (with sass files and Compass config.rb included).  Includes a right "
+"sidebar, full-width page template, postscript widget area, Font-Awesome and "
+"a slider for featured posts configurable through WordPress customizer."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Siteturner"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://siteturner.com/"
+msgstr ""
